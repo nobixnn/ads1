@@ -1,6 +1,6 @@
-Hello from line 1
-This is line 2
-Offer: 50% off today!
+Hello from line 1 https://t.me/YourBot
+This is line 2 https://t.me/YourBot
+Offer: 50% off today! https://t.me/YourBot
 Join our telegram: https://t.me/YourBot
-Visit our website for deals
-Have a great day!
+Visit our website for deals https://t.me/YourBot
+Have a great day! https://t.me/YourBot
